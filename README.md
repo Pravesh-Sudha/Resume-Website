@@ -1,6 +1,6 @@
 # Resume-Website 🚀🚀
 
-This is a simple resume website project created by Pravesh-Sudha using HTML and CSS. The purpose of this project is to showcase your professional information in an easily accessible and visually appealing format. You can view the live website here: [Resume Website](https://pravesh-sudha.github.io/Resume-Website/)
+This is a simple resume website project created by Pravesh-Sudha using HTML and CSS. The purpose of this project is to showcase your professional information in an easily accessible and visually appealing format. You can view the live website here: <a href="https://pravesh-sudha.github.io/Resume-Website/" target="_blank">Resume Website</a>
 
 ## Table of Contents
 
