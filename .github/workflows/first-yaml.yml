@@ -1,0 +1,14 @@
+name: My first github-actions yaml
+
+on: [push]
+
+jobs:
+  html-validation:
+    runs-on: ubuntu-latest
+  steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Validate HTML
+      run: html-validate "index.html"
+  
