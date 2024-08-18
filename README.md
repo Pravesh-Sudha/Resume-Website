@@ -26,7 +26,7 @@ In today's digital age, having an online resume can be a great way to stand out 
 To get started with your own resume website, follow these steps:
 
 1. Fork this repository to your GitHub account.
-2. Clone the forked repository to your local machine:
+2. Clone the forked repository to you local machine:
 
 ```bash
 git clone https://github.com/Pravesh-Sudha/Resume-Website.git
